@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# 👋 Hi, I’m Diego
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎓 **Computer Science Student** in Vancouver, BC  
+💻 Passionate about **Software Development** & **Data Analytics**  
+🚀 Currently seeking **Fall 2025 Co-op / Junior Developer roles**
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🛠 Tech Stack
 
-### `npm start`
+**Languages:** Python · JavaScript (ES6+) · Java · Ruby · SQL  
+**Frameworks & Tools:** React (Vite, Tailwind) · Rails (Devise, RSpec) · Node.js · PostgreSQL · MySQL  
+**Other:** Git/GitHub · Docker basics · Data visualization (Recharts, Excel)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🌟 Featured Projects
 
-### `npm test`
+### [🌐 Portfolio Website](https://github.com/disc3110/portafolio)
+A modern bilingual portfolio built with **React + Vite + Tailwind**.  
+- Light/Dark theme, smooth UI with charts (Recharts)  
+- EmailJS contact form integration  
+- Fully responsive design  
+🔗 [Live Demo](https://portafolio-mauve-beta.vercel.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### [💰 Budget App](https://github.com/disc3110/budget-app)
+Full-stack **Ruby on Rails** application for personal finance.  
+- Secure authentication with **Devise**  
+- Categories & transactions management  
+- Tested with **RSpec** and linted with **RuboCop**  
+🔗 [Live Demo](https://rails-budget-app.onrender.com)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### [🏥 Vet Clinic Database](https://github.com/disc3110/vet-bd-clinic)
+SQL project modeling a veterinary clinic.  
+- **Schema design** + ERD  
+- **Queries** for analytics and reporting  
+- PostgreSQL implementation with sample data
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📊 What I’m Working On
+- Building **MatchMate**, a Python + MySQL backend for multiplayer matchmaking  
+- Expanding my **Data Analytics portfolio** with a Vancouver Airbnb market analysis project
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/disc3110/)  
+- 🐦 [Twitter/X](https://x.com/disc3110)  
+- 📧 [Email Me](mailto:disc3110@gmail.com)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐️ Feel free to check out my projects, fork them, or reach out if you’d like to collaborate!
