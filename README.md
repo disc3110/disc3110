@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Diego  
-### 💻 Software Developer | Computer Science Student (Vancouver, BC)
- 
+### 💻 Software Developer (Vancouver, BC)
+
 🚀 Interested in **Backend & Full-Stack Development**  
 🌱 Currently building real-world projects with **Node.js, Express, PostgreSQL & React**
 
@@ -17,26 +17,41 @@
 
 ## 🌟 Featured Projects
 
-### 🏋️ Gym Inventory App  
-📦 Full-stack CRUD application to manage gym equipment and categories.
+### ☁️ Drive Clone
+📁 Cloud file storage application inspired by Google Drive.
 
-- Node.js + Express + PostgreSQL  
-- MVC architecture with relational data modeling  
+- Secure authentication (Passport.js + sessions)
+- Folder & file management
+- File uploads with Cloudinary
+- Shareable folder links
+- Prisma ORM + PostgreSQL
 - Deployed on Railway
 
-🔗 **Repo:** https://github.com/disc3110/gym-inventory  
-🔗 **Live Demo:** https://gym-inventory-production.up.railway.app/
+🔗 **Repo:** https://github.com/disc3110/drive-clone  
+🔗 **Live Demo:** https://drive-clone-production.up.railway.app
 
 ---
 
-### 🔐 Members Only  
+### 🔐 Members Only
 📝 Anonymous message board with authentication and authorization.
 
 - User authentication & sessions  
 - Role-based access (public / member)  
-- PostgreSQL + Express + MVC structure
+- PostgreSQL + Express + MVC structure  
 
 🔗 **Repo:** https://github.com/disc3110/express-members-only  
+
+---
+
+### 🏋️ Gym Inventory App
+📦 Full-stack CRUD application to manage gym equipment and categories.
+
+- Node.js + Express + PostgreSQL  
+- MVC architecture with relational data modeling  
+- Deployed on Railway  
+
+🔗 **Repo:** https://github.com/disc3110/gym-inventory  
+🔗 **Live Demo:** https://gym-inventory-production.up.railway.app/
 
 ---
 
@@ -47,12 +62,9 @@
 
 ---
 
----
-
 # 👋 Hola, soy Diego  
 ### 💻 Desarrollador de Software | Estudiante de Ciencias de la Computación (Vancouver, BC)
 
-🎓 Estudiante de Ciencias de la Computación, graduación en **2025**  
 🚀 Interesado en **desarrollo backend y full-stack**  
 🌱 Actualmente construyendo proyectos reales con **Node.js, Express, PostgreSQL y React**
 
@@ -69,26 +81,41 @@
 
 ## 🌟 Proyectos Destacados
 
-### 🏋️ Gym Inventory App  
-📦 Aplicación full-stack CRUD para administrar inventario de gimnasio.
+### ☁️ Drive Clone 
+📁 Aplicación de almacenamiento en la nube inspirada en Google Drive.
 
-- Node.js + Express + PostgreSQL  
-- Arquitectura MVC y relaciones entre tablas  
-- Desplegada en Railway
+- Autenticación segura (Passport.js + sesiones)
+- Gestión de carpetas y archivos
+- Subida de archivos con Cloudinary
+- Carpetas compartidas mediante enlaces
+- Prisma ORM + PostgreSQL
+- Desplegado en Railway
 
-🔗 **Repositorio:** https://github.com/disc3110/gym-inventory  
-🔗 **Demo en vivo:** https://gym-inventory-production.up.railway.app/
+🔗 **Repositorio:** https://github.com/disc3110/drive-clone  
+🔗 **Demo en vivo:** https://drive-clone-production.up.railway.app
 
 ---
 
-### 🔐 Members Only  
+### 🔐 Members Only
 📝 Foro de mensajes anónimos con autenticación y autorización.
 
 - Autenticación de usuarios y sesiones  
 - Control de acceso por roles  
-- PostgreSQL + Express + arquitectura MVC
+- PostgreSQL + Express + arquitectura MVC  
 
 🔗 **Repositorio:** https://github.com/disc3110/express-members-only  
+
+---
+
+### 🏋️ Gym Inventory App
+📦 Aplicación full-stack CRUD para administrar inventario de gimnasio.
+
+- Node.js + Express + PostgreSQL  
+- Arquitectura MVC y relaciones entre tablas  
+- Desplegada en Railway  
+
+🔗 **Repositorio:** https://github.com/disc3110/gym-inventory  
+🔗 **Demo en vivo:** https://gym-inventory-production.up.railway.app/
 
 ---
 
