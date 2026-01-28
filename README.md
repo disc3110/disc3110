@@ -1,70 +1,127 @@
-# Getting Started with Create React App
+# 👋 Hi, I’m Diego  
+### 💻 Software Developer (Vancouver, BC)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 Interested in **Backend & Full-Stack Development**  
+🌱 Currently building real-world projects with **Node.js, Express, PostgreSQL & React**
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🛠 Tech Stack
 
-### `npm start`
+**Languages:** JavaScript (ES6+) · Python · Java · Ruby · SQL  
+**Backend:** Node.js · Express · PostgreSQL · MySQL · Rails  
+**Frontend:** React · Vite · Tailwind CSS · EJS  
+**Tools:** Git/GitHub · Docker (basics) · Railway · Vercel
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🌟 Featured Projects
 
-### `npm test`
+### ☁️ Drive Clone
+📁 Cloud file storage application inspired by Google Drive.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Secure authentication (Passport.js + sessions)
+- Folder & file management
+- File uploads with Cloudinary
+- Shareable folder links
+- Prisma ORM + PostgreSQL
+- Deployed on Railway
 
-### `npm run build`
+🔗 **Repo:** https://github.com/disc3110/drive-clone  
+🔗 **Live Demo:** https://drive-clone-production.up.railway.app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🔐 Members Only
+📝 Anonymous message board with authentication and authorization.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- User authentication & sessions  
+- Role-based access (public / member)  
+- PostgreSQL + Express + MVC structure  
 
-### `npm run eject`
+🔗 **Repo:** https://github.com/disc3110/express-members-only  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🏋️ Gym Inventory App
+📦 Full-stack CRUD application to manage gym equipment and categories.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Node.js + Express + PostgreSQL  
+- MVC architecture with relational data modeling  
+- Deployed on Railway  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🔗 **Repo:** https://github.com/disc3110/gym-inventory  
+🔗 **Live Demo:** https://gym-inventory-production.up.railway.app/
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📫 Contact
+- 📧 Email: **disc3110@gmail.com**
+- 🌐 Portfolio: https://disc3110.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/disc3110/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+# 👋 Hola, soy Diego  
+### 💻 Desarrollador de Software | Estudiante de Ciencias de la Computación (Vancouver, BC)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🚀 Interesado en **desarrollo backend y full-stack**  
+🌱 Actualmente construyendo proyectos reales con **Node.js, Express, PostgreSQL y React**
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🛠 Tecnologías
 
-### Making a Progressive Web App
+**Lenguajes:** JavaScript (ES6+) · Python · Java · Ruby · SQL  
+**Backend:** Node.js · Express · PostgreSQL · MySQL · Rails  
+**Frontend:** React · Vite · Tailwind CSS · EJS  
+**Herramientas:** Git/GitHub · Docker (básico) · Railway · Vercel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🌟 Proyectos Destacados
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### ☁️ Drive Clone 
+📁 Aplicación de almacenamiento en la nube inspirada en Google Drive.
 
-### Deployment
+- Autenticación segura (Passport.js + sesiones)
+- Gestión de carpetas y archivos
+- Subida de archivos con Cloudinary
+- Carpetas compartidas mediante enlaces
+- Prisma ORM + PostgreSQL
+- Desplegado en Railway
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+🔗 **Repositorio:** https://github.com/disc3110/drive-clone  
+🔗 **Demo en vivo:** https://drive-clone-production.up.railway.app
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 🔐 Members Only
+📝 Foro de mensajes anónimos con autenticación y autorización.
+
+- Autenticación de usuarios y sesiones  
+- Control de acceso por roles  
+- PostgreSQL + Express + arquitectura MVC  
+
+🔗 **Repositorio:** https://github.com/disc3110/express-members-only  
+
+---
+
+### 🏋️ Gym Inventory App
+📦 Aplicación full-stack CRUD para administrar inventario de gimnasio.
+
+- Node.js + Express + PostgreSQL  
+- Arquitectura MVC y relaciones entre tablas  
+- Desplegada en Railway  
+
+🔗 **Repositorio:** https://github.com/disc3110/gym-inventory  
+🔗 **Demo en vivo:** https://gym-inventory-production.up.railway.app/
+
+---
+
+## 📫 Contacto
+- 📧 Email: **disc3110@gmail.com**
+- 🌐 Portafolio: https://disc3110.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/disc3110/
+
+⭐️ Gracias por visitar mi perfil. ¡Siéntete libre de revisar mis proyectos o contactarme!
