@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Diego  
 ### 💻 Software Developer | Computer Science Student (Vancouver, BC)
-
-🎓 Computer Science student graduating in **2025**  
+ 
 🚀 Interested in **Backend & Full-Stack Development**  
 🌱 Currently building real-world projects with **Node.js, Express, PostgreSQL & React**
 
