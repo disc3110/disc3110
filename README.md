@@ -1,123 +1,112 @@
 # 👋 Hi, I’m Diego  
-### 💻 Software Developer (Vancouver, BC)
+### 💻 Software Developer | Backend & Full-Stack (Vancouver, BC)
 
-🚀 Interested in **Backend & Full-Stack Development**  
-🌱 Currently building real-world projects with **Node.js, Express, PostgreSQL & React**
+I build production style full-stack applications with clean architecture, authentication systems, relational data modeling, and separated frontend/backend deployments.
+
+I’m particularly interested in **backend-heavy systems, API design, and scalable web applications**, while staying comfortable across the full stack.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:** JavaScript (ES6+) · Python · Java · Ruby · SQL  
-**Backend:** Node.js · Express · PostgreSQL · MySQL · Rails  
+**Backend:** Node.js · Express · PostgreSQL · MySQL · Prisma · Rails  
 **Frontend:** React · Vite · Tailwind CSS · EJS  
-**Tools:** Git/GitHub · Docker (basics) · Railway · Vercel
+**Infrastructure & Tools:** Git/GitHub · Docker (basics) · Railway · Vercel
 
 ---
 
 ## 🌟 Featured Projects
 
-### ☁️ Drive Clone
-📁 Cloud file storage application inspired by Google Drive.
+### 📰 OP Blog Platform (Full-Stack System)
+Production-style blog platform built with a separated architecture (API + Public App + Author Dashboard).
 
-- Secure authentication (Passport.js + sessions)
-- Folder & file management
-- File uploads with Cloudinary
-- Shareable folder links
-- Prisma ORM + PostgreSQL
-- Deployed on Railway
+**Key Highlights:**
+- REST API with Express + Prisma + PostgreSQL  
+- JWT authentication (required + optional auth middleware)  
+- Role-based access control (USER / AUTHOR / ADMIN)  
+- Post & comment likes with relational constraints and composite keys  
+- Pagination, filtering, and search  
+- Separate public and admin frontends  
+- Deployed to Railway & Vercel  
+
+🔗 **API:** https://github.com/disc3110/op-blog-api  
+🔗 **Public App:** https://github.com/disc3110/op-blog-public  
+🔗 **Author Dashboard:** https://github.com/disc3110/op-blog-author  
+
+---
+
+### ☁️ Drive Clone
+Cloud file storage application inspired by Google Drive.
+
+**Key Highlights:**
+- Authentication with Passport.js and session management  
+- Folder & file hierarchy with relational modeling  
+- File uploads via Cloudinary  
+- Shareable folder links  
+- Prisma ORM + PostgreSQL  
+- Deployed on Railway  
 
 🔗 **Repo:** https://github.com/disc3110/drive-clone  
-🔗 **Live Demo:** https://drive-clone-production.up.railway.app
+🔗 **Live Demo:** https://drive-clone-production.up.railway.app  
 
 ---
 
 ### 🔐 Members Only
-📝 Anonymous message board with authentication and authorization.
+Role-based message board demonstrating authentication and authorization flows.
 
-- User authentication & sessions  
-- Role-based access (public / member)  
-- PostgreSQL + Express + MVC structure  
+- User sessions & protected routes  
+- Role-based visibility  
+- PostgreSQL + Express MVC structure  
 
 🔗 **Repo:** https://github.com/disc3110/express-members-only  
 
 ---
 
-### 🏋️ Gym Inventory App
-📦 Full-stack CRUD application to manage gym equipment and categories.
+## 🎯 What I Focus On
 
-- Node.js + Express + PostgreSQL  
-- MVC architecture with relational data modeling  
-- Deployed on Railway  
-
-🔗 **Repo:** https://github.com/disc3110/gym-inventory  
-🔗 **Live Demo:** https://gym-inventory-production.up.railway.app/
+- Designing clean REST APIs  
+- Authentication & authorization systems  
+- Relational database modeling  
+- Role-based access control  
+- Production-like project structure  
+- Clear commit history & feature-branch workflows  
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **disc3110@gmail.com**
-- 🌐 Portfolio: https://disc3110.vercel.app
+
+- 📧 Email: **disc3110@gmail.com**  
+- 🌐 Portfolio: https://disc3110.vercel.app  
 - 💼 LinkedIn: https://www.linkedin.com/in/disc3110/
+
+
+---
+
+⭐️ Thanks for visiting my profile — feel free to explore my repositories or reach out.
 
 ---
 
 # 👋 Hola, soy Diego  
-### 💻 Desarrollador de Software | Estudiante de Ciencias de la Computación (Vancouver, BC)
+### 💻 Desarrollador de Software | Backend & Full-Stack (Vancouver, BC)
 
-🚀 Interesado en **desarrollo backend y full-stack**  
-🌱 Actualmente construyendo proyectos reales con **Node.js, Express, PostgreSQL y React**
+Construyo aplicaciones full-stack con arquitectura separada, autenticación robusta y modelado relacional de bases de datos.
 
----
-
-## 🛠 Tecnologías
-
-**Lenguajes:** JavaScript (ES6+) · Python · Java · Ruby · SQL  
-**Backend:** Node.js · Express · PostgreSQL · MySQL · Rails  
-**Frontend:** React · Vite · Tailwind CSS · EJS  
-**Herramientas:** Git/GitHub · Docker (básico) · Railway · Vercel
+Me enfoco especialmente en **backend, diseño de APIs y sistemas escalables**, manteniendo experiencia en todo el stack.
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Proyecto Principal
 
-### ☁️ Drive Clone 
-📁 Aplicación de almacenamiento en la nube inspirada en Google Drive.
+### 📰 Plataforma OP Blog
+Sistema completo con arquitectura profesional (API + App Pública + Dashboard de Autor).
 
-- Autenticación segura (Passport.js + sesiones)
-- Gestión de carpetas y archivos
-- Subida de archivos con Cloudinary
-- Carpetas compartidas mediante enlaces
-- Prisma ORM + PostgreSQL
-- Desplegado en Railway
-
-🔗 **Repositorio:** https://github.com/disc3110/drive-clone  
-🔗 **Demo en vivo:** https://drive-clone-production.up.railway.app
-
----
-
-### 🔐 Members Only
-📝 Foro de mensajes anónimos con autenticación y autorización.
-
-- Autenticación de usuarios y sesiones  
+- API REST con Express + Prisma + PostgreSQL  
+- Autenticación JWT (middleware obligatorio y opcional)  
 - Control de acceso por roles  
-- PostgreSQL + Express + arquitectura MVC  
-
-🔗 **Repositorio:** https://github.com/disc3110/express-members-only  
-
----
-
-### 🏋️ Gym Inventory App
-📦 Aplicación full-stack CRUD para administrar inventario de gimnasio.
-
-- Node.js + Express + PostgreSQL  
-- Arquitectura MVC y relaciones entre tablas  
-- Desplegada en Railway  
-
-🔗 **Repositorio:** https://github.com/disc3110/gym-inventory  
-🔗 **Demo en vivo:** https://gym-inventory-production.up.railway.app/
-
----
+- Likes en posts y comentarios con claves compuestas  
+- Paginación, filtros y búsqueda  
+- Despliegue independiente de frontend y backend  
 
 ## 📫 Contacto
 - 📧 Email: **disc3110@gmail.com**
